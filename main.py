@@ -1,9 +1,10 @@
+#Aplikacja do nauki Pythona
+
+
+
+
 #!/usr/bin/env python3
 # Copyright 2009-2017 BHG http://bw.org/
-#Clear Screen
-import os
-os.system('cls')
-
 
 
 
