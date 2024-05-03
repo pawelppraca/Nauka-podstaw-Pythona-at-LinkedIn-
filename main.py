@@ -1,11 +1,8 @@
-#Aplikacja do nauki Pythona
+# Aplikacja do nauki Pythona
 
 
-
-
-#!/usr/bin/env python3
+# !/usr/bin/env python3
 # Copyright 2009-2017 BHG http://bw.org/
-
 
 
 # Zmienne liczbowe
